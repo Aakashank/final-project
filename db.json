@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Wireless Headphones",
+      "price": 99.99,
+      "category": "Electronics",
+      "rating": { "rate": 4.5 },
+      "image": "/images/headphones.jpg"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+/* Container styling */
+.sort-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+
+/* Button styling */
+.sort-buttons button {
+  padding: 8px 14px;
+  font-size: 14px;
+  background-color: #1976d2; /* Blue background */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.sort-buttons button:hover {
+  background-color: #115293; /* Darker blue on hover */
+}
